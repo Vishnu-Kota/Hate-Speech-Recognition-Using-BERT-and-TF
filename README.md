@@ -2,11 +2,11 @@
 An analysis model that classifies twitter tweets using BERT and Tensor Flow libraries. 
 
 ## Libraries used:
-- Pandas
-- Numpy
-- Shutil
-- Tensor Flow
-- Sklearn
+- [(Pandas)](https://pypi.org/project/pandas/)
+- [(Numpy)](https://pypi.org/project/pandas/)
+- [(Shutil)](https://github.com/pfalcon/pycopy-lib)
+- [(Tensor Flow)](https://github.com/tensorflow/tensor2tensor)
+- [(Sklearn)](https://pypi.org/project/sklearn-pandas/)
 
 ## Implementation of text classification with BERT 
 
